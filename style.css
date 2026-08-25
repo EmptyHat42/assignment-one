@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #0f0f0f;
+}
+header{
+    text-align: center;
+}
+.p-one{
+    display: inline-block;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.p-two{
+    width: 600px;
+    text-align: justify;
+}
+
+.img-of-me{
+    width: 40%;
+    height: 40%;
+}
